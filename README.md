@@ -6,10 +6,6 @@ I’m a Computer Engineering and Electrical Engineering student at the Universit
 - 🎓 B.S. in Computer Engineering & B.S. in Electrical Engineering
 - 📌 Concentration: Machine Learning | Mathematics | Artificial Intelligence Fundamentals
 - 📧 cdiaz14@charlotte.edu
-- 💼 [LinkedIn](https://www.linkedin.com/in/your-profile)
-- 🧠 [GitHub](https://github.com/your-username)
-- 🌐 [Portfolio](https://yourwebsite.com)
-
 ---
 
 ## About Me
@@ -119,7 +115,6 @@ I’m looking for opportunities to build, learn, and contribute in software engi
 ## Connect
 
 - [LinkedIn](https://www.linkedin.com/in/your-profile)
-- [GitHub](https://github.com/your-username)
 - [Email](mailto:cdiaz14@charlotte.edu)
 
 > “Building useful technology with real impact.”
